@@ -26,11 +26,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-Placeholder Code:
-<img src='https://i.imgur.com/BP8kfR4.gif' title='Placeholder Code' width='' alt='Code' />
-
-Walkthrough:
-<img src='https://i.imgur.com/i02dPb3.gif' title='Walkthrough' width='' alt='Walkthrough' />
+[Image/GIF showing the placeholder loading code](https://i.imgur.com/BP8kfR4.gif)
+[Image/GIF showing the walkthrough](https://i.imgur.com/i02dPb3.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
