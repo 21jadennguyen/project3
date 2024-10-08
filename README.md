@@ -28,8 +28,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/BP8kfR4.gif' title='Placeholder Code' width='' alt='Code' />
 
-<img src='https://i.imgur.com/i02dPb3.gif' title='Walkthrough' width='' alt='Walkthrough' />
-<img src='https://i.imgur.com/i02dPb3.gif' title='Walkthrough' width='' alt='Walkthrough' />
+<img src='https://i.imgur.com/Uonns4m.gif' title='Walkthrough' width='' alt='Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
