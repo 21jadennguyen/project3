@@ -27,7 +27,9 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/BP8kfR4.gif' title='Placeholder Code' width='' alt='Code' />
+
 <img src='https://i.imgur.com/gxgdazU.gif' title='Horizontal Walkthrough' width='' alt='Horizontal Walkthrough' />
+
 <img src='https://i.imgur.com/LWjiATu.gif' title='Vertical Walkthrough' width='' alt='Vertical Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
